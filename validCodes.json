@@ -1,0 +1,14 @@
+{
+    "validCodes": [
+        { "code": "0001", "name": "Alice Johnson" },
+        { "code": "0002", "name": "Bob Smith" },
+        { "code": "0003", "name": "Charlie Brown" },
+        { "code": "0004", "name": "Diana Prince" },
+        { "code": "0005", "name": "Evan Thompson" },
+        { "code": "0006", "name": "Fiona Green" },
+        { "code": "0007", "name": "George White" },
+        { "code": "0008", "name": "Hannah Black" },
+        { "code": "0009", "name": "Ivy Blue" },
+        { "code": "0010", "name": "Jack Red" }
+    ]
+}
